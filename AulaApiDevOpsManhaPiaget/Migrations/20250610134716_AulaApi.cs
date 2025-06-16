@@ -27,6 +27,7 @@ namespace AulaApiDevOpsManhaPiaget.Migrations
                 });
         }
 
+
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
